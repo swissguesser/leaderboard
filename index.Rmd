@@ -5,67 +5,18 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(httr)
-library(rlist)
-library(jsonlite)
-library(readr)
-library(stringr)
 library(forcats)
-library(plotly)
+#library(plotly)
+library(ggplot2)
 
-GH_ACCOUNT <- "swissguesser"
-
-fetchGithubData <- function(repo, path) {
-
-  auth <- authenticate(Sys.getenv("PAT"), "")
-  
-  # Seperate the filename from the directory
-  match <- regexpr("^(.*[\\/])", path)
-  if (match[1] > 0) {
-    dir <- path %>% substring(match[1], attr(match, "match.length"))
-    file <- path %>% substring(attr(match, "match.length") + 1, nchar(path))
-  } else {
-    dir <- ""
-    file <- path
-  }
-
-  # To handle files larger than 1MB, use this trick:
-  # https://medium.com/@caludio/how-to-download-large-files-from-github-4863a2dbba3b
-  req_meta <-
-    content(
-      GET(
-        paste("https://api.github.com/repos", GH_ACCOUNT, repo, "contents", dir, sep="/"),
-        auth
-      )
-    )
-
-  entry <- req_meta %>% list.filter(name == file)
-  sha <- entry[1][[1]]$sha
-
-  # Grab contents, using sha as a reference
-  req_blob <- GET(
-    paste("https://api.github.com/repos", GH_ACCOUNT, repo, "git/blobs", sha, sep="/"),
-    auth
-  )
-
-  # Need to decode the contents, which are returned in base64
-  d <- content(req_blob)$content %>%
-    base64_dec() %>%
-    rawToChar()
-
-  return(d)
-}
+df <- read.csv("leaderboard.csv")#,
+               #col_types = cols_only(user_name = col_character(),
+              #                       user_handle = col_character(),
+              #                       user_id = col_character(),
+              #                       score = col_integer()))
 
 
-data <- fetchGithubData(GH_ACCOUNT, "leaderboard.csv")
-df <- read_csv(data,
-               col_types = cols_only(user_name = col_character(),
-                                     user_handle = col_character(),
-                                     user_id = col_character(),
-                                     score = col_integer()))
-
-
-df$user_handle <- as.factor(str_c("@", df$user_handle))
+df$user_handle <- as.factor(paste("@", df$user_handle, sep=""))
 df$user_handle <- fct_reorder(df$user_handle, df$score, max, desc=TRUE)
 
 ```
@@ -73,29 +24,46 @@ df$user_handle <- fct_reorder(df$user_handle, df$score, max, desc=TRUE)
 
 This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
 
-## Including Code
 
-You can include R code in the document as follows:
+```{r, echo=FALSE}
+#fig <- plot_ly(
+#  y = df$user_handle,
+#  x = df$score,
+#  name = "@swissguesser Leaderboard",
+#  type = "bar",
+#  orientation = "h"
+#)
+theme_geobeer <- function() {
+  theme_minimal() +
+    theme(
+      text = element_text(color = "#22211d"),
+      plot.title = element_text(lineheight=1, size = rel(2.1), face='bold'),
+      plot.subtitle = element_text(size = rel(1.2), lineheight=1),
+      plot.caption = element_text(size = rel(0.7)),
+      plot.background = element_rect(fill = '#FAFAFA', colour=NA),
+      legend.position = 'top',
+      plot.margin = margin(10, 5, 5, 5, 'mm'))
+}
+theme_geobeer_horbar <- function() {
+  theme_geobeer() +
+    theme(
+      panel.grid.major.y = element_blank(),
+      panel.grid.minor.y = element_blank(),
+      axis.text.y = element_text(size = rel(1.3), colour='black'),
+      axis.title.x = element_text(size = rel(1.1)))
+}
 
-```{r cars}
-fig <- plot_ly(
-  y = df$user_handle,
-  x = df$score,
-  name = "@swissguesser Leaderboard",
-  type = "bar",
-  orientation = "h"
-)
+fig <- ggplot(df, aes(x=user_handle, y=score)) +
+  geom_bar(stat='identity', fill='#86D8FC') +
+  theme_geobeer_horbar() +
+  coord_flip() +
+  labs(title='Title',
+       subtitle='Subtitle',
+       caption='caption',
+       x='',
+       y='\nScore')
 
 fig
 
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
