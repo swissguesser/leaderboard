@@ -22,8 +22,8 @@ jobs:
           install.packages("plotly")
         shell: Rscript {0}
       - name: Render leaderboard
-        run: Rscript -e 'rmarkdown::render("index.Rmd", output_format = "md_document")'
+        run: Rscript -e 'rmarkdown::render("index.Rmd", output_format = "html_document")'
       - name: Commit results
         run: |
-          git commit index.md -m 'Refresh leaderboard' || echo "No changes to commit"
+          git commit index.html -m 'Refresh leaderboard' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
