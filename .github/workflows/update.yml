@@ -17,12 +17,7 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - name: Install R dependencies
         run: |
-          install.packages("httr")
-          install.packages("rlist")
-          install.packages("jsonlite")
           install.packages("rmarkdown")
-          install.packages("readr")
-          install.packages("stringr")
           install.packages("forcats")
           install.packages("plotly")
         shell: Rscript {0}
