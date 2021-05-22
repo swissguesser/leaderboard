@@ -21,9 +21,17 @@ jobs:
           install.packages("forcats")
           install.packages("plotly")
         shell: Rscript {0}
+      
       - name: Render leaderboard
-        run: Rscript -e 'rmarkdown::render("index.Rmd", output_format = "html_document")'
-      - name: Commit results
-        run: |
-          git commit index.html -m 'Refresh leaderboard' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+        uses: lc5415/rmarkdown-action@v1
+        with:
+          input_file: index.Rmd
+	        output_format: html_document
+      
+      - name: Push data to repo
+        uses: github-actions-x/commit@v2.7
+        with:
+          push-branch: 'gh-pages'
+          commit-message: 'Update leaderboard'
+          force-add: 'true'
+          name: autoupdate
