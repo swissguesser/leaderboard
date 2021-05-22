@@ -18,7 +18,7 @@ jobs:
         run: |
           install.packages("rmarkdown")
           install.packages("forcats")
-          install.packages("plotly")
+          install.packages("ggplot2")
         shell: Rscript {0}
       - name: Render leaderboard
         uses: lc5415/rmarkdown-action@v1
