@@ -20,11 +20,20 @@ jobs:
           install.packages("forcats")
           install.packages("ggplot2")
         shell: Rscript {0}
+
+      - uses: actions/cache@v2
+        with:
+          path: ~/.local/share/renv
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-
+      
       - name: Render leaderboard
         uses: lc5415/rmarkdown-action@v1
         with:
           input_file: index.Rmd
           output_format: html_document
+      
       - name: Push data to repo
         uses: github-actions-x/commit@v2.7
         with:
