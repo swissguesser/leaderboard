@@ -12,27 +12,31 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
         crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Roboto&display=swap');
+	</style>
 </head>
 
 <body>
     <div class="container-fluid">
         <main class="row" style="padding-top:15px">
             <div class="col">
-				<h1>Who are the best #swissguesser-s?</h1>
-				<h2 style="padding-top:20px">Last-30-days leaderboard</h2>
+				<h1 style="font-family: 'Pattaya', sans-serif;">Who are the best <a href="https://twitter.com/swissguesser">#swissguessers</a>?</h1>
+				<h2 style="padding-top:20px;font-family: 'Roboto', sans-serif;">Last-30-days Leaderboard</h2>
 				<div id="table-container-thirty-day"></div>
 		    </div>
         </main>
-        <main class="row" style="padding-top:40px">
+        <main class="row" style="padding-top:40px;">
             <div class="col">
-				<h2>All-time leaderboard</h2>
+				<h2 style="font-family: 'Roboto', sans-serif;">All-time Leaderboard</h2>
                 <div id="table-container-all-time"></div>
             </div>
         </main>
         <footer class="row">
             <div class="col">
                 <hr>
-                <p class="text-right">Made using <a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by
+                <p class="text-right" style="font-family: 'Roboto', sans-serif;">Made using <a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by
                     <a href="http://derekeder.com">Derek Eder</a></p>
             </div>
         </footer>
