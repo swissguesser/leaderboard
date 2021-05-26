@@ -1,5 +1,9 @@
 user_name,user_handle,user_id,score
 Ralph Straumann,rastrau,385013701,82
 David Oesch,davidoesch,1048785624,72
+<<<<<<< Updated upstream
 swissguesser,swissguesser,1382070536528879619,20
 Timo Grossenbacher,grssnbchr,396746547,20
+=======
+Timo Grossenbacher,grssnbchr,396746547,0
+>>>>>>> Stashed changes
