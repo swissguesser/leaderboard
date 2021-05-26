@@ -48,7 +48,7 @@
     <script>
         function format_link(link) {
             if (link)
-                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+                return "<a href='https://twitter.com/" + link + "'>@" + link + "</a>";
             else return "";
         }
 
@@ -64,7 +64,7 @@
                 paging: false
             },
             custom_formatting: [
-                [4, format_link]
+                [3, format_link]
             ]
         });
 		
@@ -80,7 +80,7 @@
                 paging: false
             },
             custom_formatting: [
-                [4, format_link]
+                [3, format_link]
             ]
         });
     </script>
