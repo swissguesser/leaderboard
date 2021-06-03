@@ -4,10 +4,10 @@
 <details open="open">
   <summary>Content</summary>
   <ol>
-    <li><a href="#general-idea">General idea</a></li>
-    <li><a href="#terms-of-service">Terms of Service</a></li>
-    <li><a href="#haftungsausschluss">Haftungsausschluss</a></li>
-    <li><a href="#datenschutzerklärung">Datenschutzerklärung</a></li>
+    <li><a href="#1-general-idea">General idea</a></li>
+    <li><a href="#2-terms-of-service">Terms of Service</a></li>
+    <li><a href="#3-haftungsausschluss">Haftungsausschluss</a></li>
+    <li><a href="#4-datenschutzerklärung">Datenschutzerklärung</a></li>
   </ol>
 </details>
 
