@@ -1,15 +1,14 @@
 # Impressum
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Content</summary>
+#### Content
   <ol>
     <li><a href="#1-general-idea">General idea</a></li>
     <li><a href="#2-terms-of-service">Terms of Service</a></li>
     <li><a href="#3-haftungsausschluss">Haftungsausschluss</a></li>
     <li><a href="#4-datenschutzerklärung">Datenschutzerklärung</a></li>
   </ol>
-</details>
+
 
 ## 1. General idea
 
