@@ -5,8 +5,8 @@
   <ol>
     <li><a href="#1-general-idea">General idea</a></li>
     <li><a href="#2-terms-of-service">Terms of Service</a></li>
-    <li><a href="#3-haftungsausschluss">Haftungsausschluss</a></li>
-    <li><a href="#4-datenschutzerklärung">Datenschutzerklärung</a></li>
+    <li><a href="#3-disclaimer">Haftungsausschluss</a></li>
+    <li><a href="#4-privacy-policy">Datenschutzerklärung</a></li>
   </ol>
 
 
@@ -71,7 +71,7 @@ We do not guarantee that our site, or any content on it, will be free from error
 
 The Fair Use Policy refers to the system limits in place for the site to stay operational.
 
-Please note that your participation might be temporarily suspended in case these limits are met; or the account can be terminated.
+Please note that your participation might be temporarily suspended in case these limits are met; or the participation can be terminated.
 
 ### 2.7 User-generated content 
 
@@ -81,70 +81,69 @@ We reserve the right to remove any map, avatar or other content that can be cons
 If you have any questions about these Terms, please contact us at @swissguesser on Twitter.
 
 
-## 3. Haftungsausschluss
+## 3. Disclaimer
 
-Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen.
-Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen.
+The authors assume no liability whatsoever with regard to the correctness, accuracy, up-to-dateness, reliability and completeness of the information.
+Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.
 
-Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
+All offers are non-binding. The authors expressly reserve the right to change, supplement or delete parts of the pages or the entire offer without special notice or to discontinue publication temporarily or permanently.
 
-#### Haftungsausschluss für Links
+#### Disclaimer for links
 
-Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortungsbereichs. Es wird jegliche Verantwortung für solche Webseiten abgelehnt. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr des jeweiligen Nutzers.
+References and links to third party websites are beyond our responsibility. We do not accept any responsibility for such websites. The access and use of such websites is at the own risk of the respective user.
 
+## 4. Privacy Policy
+### 4.1 General information
 
-## 4. Datenschutzerklärung
-### 4.1 Allgemeiner Hinweis
+Based on Article 13 of the Swiss Federal Constitution and the data protection provisions of the Swiss Confederation (Data Protection Act, DSG), every person has the right for protection of his or her privacy and for protection against misuse of his or her personal data. The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations as well as this data protection declaration.
 
-Gestützt auf Artikel 13 der schweizerischen Bundesverfassung und die datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+### 4.2 Privacy policy for Twitter
 
-### 4.2 Datenschutzerklärung für Twitter
+This website uses functions of Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. When you call up our pages with Twitter plug-ins, a connection is established between your browser and the servers of Twitter. In the process, data is already transferred to Twitter. If you have a Twitter account, this data can be linked to it. If you do not wish this data to be associated with your Twitter account, please log out of Twitter before visiting our site. Interactions, in particular the clicking of a "Re-Tweet" button, are also passed on to Twitter. You can find out more at https://twitter.com/privacy.
 
-Diese Website verwendet Funktionen von Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. Bei Aufruf unserer Seiten mit Twitter-Plug-Ins wird eine Verbindung zwischen Ihrem Browser und den Servern von Twitter aufgebaut. Dabei werden bereits Daten an Twitter übertragen. Besitzen Sie einen Twitter-Account, können diese Daten damit verknüpft werden. Wenn Sie keine Zuordnung dieser Daten zu Ihrem Twitter-Account wünschen, loggen Sie sich bitte vor dem Besuch unserer Seite bei Twitter aus. Interaktionen, insbesondere das Anklicken eines „Re-Tweet“-Buttons werden ebenfalls an Twitter weitergegeben. Mehr erfahren Sie unter https://twitter.com/privacy.
+### 4.3 Privacy policy for GithubPages
 
-### 4.3 Datenschutzerklärung für GithubPages
+Our hoster collects the following data transmitted by your browser in so-called log files:
 
-Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
+IP address, the address of the previously visited website (referer request header), date and time of the request, time zone difference to Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request came and information about the browser and operating system.
 
-IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
+This is necessary to display our website and to ensure stability and security. This corresponds to our legitimate interest within the meaning of Art. 6 para. 1 p. 1 lit. f DSGVO.
 
-Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+There is no tracking and we do not have direct access to this data, but only receive an anonymised statistical summary. This includes the address of the previously visited page, the frequency of the pages called up in each case and the number of unique visitors. We do not combine this data with other data.
 
-Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff, sondern erhalten lediglich eine anonymisierte, statistische Zusammenfassung. Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit der jeweils aufgerufenen Seiten und die Anzahl eindeutiger Besucher. Diese Daten führen wir nicht mit anderen Daten zusammen.
-
-Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
+We use the following hoster for the provision of our website:
 
 GitHub Inc.
 88 Colin P Kelly Jr St
 San Francisco, CA 94107
 United States
 
-Dieser ist Empfänger Ihrer personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
+This is the recipient of your personal data. This corresponds to our legitimate interest within the meaning of Art. 6 (1) sentence 1 lit. f DSGVO in not having to maintain a server on our premises. The server is located in the USA.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages
+You can find more information on objection and removal options vis-à-vis GitHub at: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages.
 
-Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
+You have the right to object to the processing. Whether the objection is successful is to be determined within the framework of a balancing of interests.
 
-Die Daten werden gelöscht, sobald der Zweck der Verarbeitung entfällt.
+The data will be deleted as soon as the purpose of the processing ceases to apply.
 
-Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
+The processing of the data provided under this section is not required by law or contract. The functionality of the website is not guaranteed without the processing.
 
-GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors
+GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information, please visit: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors
 
-### 4.4 Änderungen
+### 4.4 Changes
 
-Wir können diese Datenschutzerklärung jederzeit ohne Vorankündigung anpassen. Es gilt die jeweils aktuelle, auf unserer Website publizierte Fassung. Soweit die Datenschutzerklärung Teil einer Vereinbarung mit Ihnen ist, werden wir Sie im Falle einer Aktualisierung über die Änderung per E-Mail oder auf andere geeignete Weise informieren.
+We may amend this privacy policy at any time without prior notice. The current version published on our website will apply. Insofar as the data protection declaration is part of an agreement with you, we will inform you of the change by e-mail or other suitable means in the event of an update.
 
-### 4.5 Fragen an den Datenschutzbeauftragten
+### 4.5 Questions for the Data Protection Officer
 
-Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortlichen Person in unserer Organisation.
+If you have any questions about data protection, please write to us by e-mail or contact the persons responsible for data protection in our organisation directly.
 
-Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), sind:
+The data protection officers within the meaning of the data protection laws, in particular the EU General Data Protection Regulation (GDPR), are:
 
-- Ralph Straumann ([Twitter](https://twitter.com/rastrau), [GitHub](https://github.com/rastrau)) und 
+- Ralph Straumann ([Twitter](https://twitter.com/rastrau), [GitHub](https://github.com/rastrau)) and 
 - David Oesch ([Twitter](https://twitter.com/davidoesch), [GitHub](https://github.com/davidoesch))
 
 Website: https://swissguesser.github.io/leaderboard/
 
 Bern, 03.06.2021
-Quelle: https://www.swissanwalt.ch
+Source: https://www.swissanwalt.ch
