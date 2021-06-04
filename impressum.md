@@ -5,8 +5,8 @@
   <ol>
     <li><a href="#1-general-idea">General idea</a></li>
     <li><a href="#2-terms-of-service">Terms of Service</a></li>
-    <li><a href="#3-disclaimer">Haftungsausschluss</a></li>
-    <li><a href="#4-privacy-policy">Datenschutzerklärung</a></li>
+    <li><a href="#3-disclaimer">Disclaimer</a></li>
+    <li><a href="#4-privacy-policy">Privacy Policy</a></li>
   </ol>
 
 
