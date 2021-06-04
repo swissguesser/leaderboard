@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv='cache-control' content='no-cache'> 
+	<meta http-equiv='expires' content='0'> 
+	<meta http-equiv='pragma' content='no-cache'>
+    <title>About Swissguesser</title>
+    <meta name="author" content="swissguesser">
+	    <!-- Für Apple-Geräte -->
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon-180x180.png">
+        <!-- Für Browser -->
+        <link rel="shortcut icon" type="image/x-icon" href="assets/favicon-32x32.ico">
+        <link rel="icon" type="image/png" sizes="96x96" href="assets/favicon-96x96.png">
+        <!-- Für Windows Metro -->
+        <meta name="msapplication-square310x310logo" content="assets/mstile-310x310.png">
+        <meta name="msapplication-TileColor" content="#000000)">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Roboto&display=swap');
+	</style>
+
+</head>
+
+<body style="padding-left:5px;padding-right:5px">
+
+    <div class="container-fluid">
+        <main>
+        <div class="row" style="padding-top:25px">
+            <div class="col">
+				<div id="heading" style="padding-top:20px; padding-bottom:15px; padding-left:10px; background-image: url(./assets/banner.png")>
+                    <img src="assets/icon.png" style="height:45px;float:left;margin-right:10px;position:relative;top:2px;"/>
+					<h1 style="font-family: 'Pattaya', sans-serif; height: 100%; width: 100%;">Who are the best #swissguessers</a>?</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="col-8" style="padding-top:35px;font-size:1.3em"">
+                <p>Professional hang-gliding pilot, amateur parachutist or simply in love with orthophotos...? &mdash;</p>
+                <p>If you are looking for a challenge and like Swiss geography, you have come to the right place! Fly over the Jet d'Eau in Geneva, the cobbled streets of the old town in the city of Bern or enjoy a scenic view onto one of the over 2,000 municipalities and thousands of sights and points-of-interest we have collected.</p>
+                <center><a href="https://twitter.com/swissguesser" class="btn btn-primary" style="font-size:1.3em;padding:10px;margin-top:20px;margin-bottom:20px"><b>Join the #swissguesser game on Twitter!</b></a></center>
+            </div>
+            <div class="col-2"></div>
+        </div>
+        <div class="row" style="padding-top:20px">
+            <div class="col-sm"/>
+            <div class="col-sm">
+                
+            </div>
+            <div class="col-sm"/>
+        </div>
+        </main>
+        <hr>
+        <footer class="row">
+            <div class="col-4">
+                <p style="text-align:left"><a href="https://swissguesser.github.io/swissguesser/impressum.html"><b>Impressum</b></a></p>
+            </div>
+            <div class="col-4">
+                <p style="text-align:center"><a href="https://swissguesser.github.io/swissguesser/leaderboard.html"><b>Leaderboard</b></a></p>
+            </div>
+            <div class="col-4">
+                <p class="text-right"><a href="https://twitter.com/swissguesser"><b>@swissguesser</b></a></p>
+            </div>
+        </footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv_to_html_table.js"></script>
+
+    <script>
+        function format_link(link) {
+            if (link)
+                return "<a href='https://twitter.com/" + link + "'>@" + link + "</a>";
+            else return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/leaderboard-all-time.csv",
+            element: "table-container-all-time",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: true
+            },
+            custom_formatting: [
+                [2, format_link]
+            ]
+        });
+		
+		CsvToHtmlTable.init({
+            csv_path: "data/leaderboard-thirty-day.csv",
+            element: "table-container-thirty-day",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: false
+            },
+            custom_formatting: [
+                [2, format_link]
+            ]
+        });
+    </script>
+
+</body>
+
+</html>
