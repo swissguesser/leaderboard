@@ -1,5 +1,5 @@
-# Swissguesser Leaderboard
+# Welcome to <a href="https://twitter.com/swissguesser">#Swissguesser</a>
 
-**Go to [https://swissguesser.github.io/leaderboard](https://swissguesser.github.io/leaderboard) to see the swissguesser leaderboard.**
-
-The website is made using [CSV to HTML](https://github.com/derekeder/csv-to-html-table), Copyright &copy; 2018 Derek Eder. Released under the [MIT License](https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE).
+- [About #Swissguesser](https://swissguesser.github.io/swissguesser/about.html): Learn more about how [#Swissguesser](https://twitter.com/swissguesser) works
+- [#Swissguesser Leaderboard](https://swissguesser.github.io/swissguesser/leaderboard.html): See where you rank among all competitors
+- [#Swissguesser Impressum](https://swissguesser.github.io/swissguesser/impressum.html): Learn about our terms of service, disclaimer of liability and data protection
