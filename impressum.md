@@ -14,17 +14,22 @@
 
 - **How does #swissguesser work?** &mdash; We tweet an aerial photo of Switzerland. Reply as soon as possible with your guess of the municipality or place shown in the image. The fastest correct answer scores 5, 10 or 20 points, slower ones score a fifth of that.
 
-- **What about privacy?** &mdash; If you score, we display your Twitter handle, your all-time and 30-day #swissguesser score and rank on our public leaderboard at https://swissguesser.github.io/leaderboard. If you don't want this, please let us know in a Direct Message to @swissguesser indicating your Twitter handle. See <a href="#terms-of-service">Terms of Service</a> and <a href="#datenschutzerklärung">Privacy Statement</a> below.
+- **What about privacy?** &mdash; If you score, we display your Twitter handle, your all-time and 30-day #swissguesser score and rank on our public leaderboard at <a href="https://swissguesser.github.io/leaderboard">https://swissguesser.github.io/leaderboard</a>
+. If you don't want this, please let us know in a Direct Message to <a href="https://twitter.com/swissguesser/">@swissguesser</a>
+ indicating your Twitter handle. See <a href="#terms-of-service">Terms of Service</a> and <a href="#datenschutzerklärung">Privacy Statement</a> below.
 
-- **How will you know if your #swissguesser answer was correct?** &mdash; If you were the first to submit a correct answer, @swissguesser will mention and congratulate you. If you were correct but not the fastest, we will like your answer tweet. If there is no interaction, you were off &ndash; better luck next time!
+- **How will you know if your #swissguesser answer was correct?** &mdash; If you were the first to submit a correct answer, <a href="https://twitter.com/swissguesser/">@swissguesser</a> will mention and congratulate you. If you were correct but not the fastest, we will like your answer tweet. If there is no interaction, you were off &ndash; better luck next time!
 
-- **You want to know your current score?** &mdash; Simply go to the leaderboard at https://swissguesser.github.io/leaderboard. Or ask @swissguesser by tweeting «score» (or more politely, for example: «What is my score, please?» 😉) at us. We'll do the calculations and send you your current rank and stats.
+- **You want to know your current score?** &mdash; Simply go to the leaderboard at <a href="https://swissguesser.github.io/leaderboard.">https://swissguesser.github.io/leaderboard.</a>
+. Or ask @swissguesser by tweeting «score» (or more politely, for example: «What is my score, please?» 😉) at us. We'll do the calculations and send you your current rank and stats.
 
 - **How does #swissguesser decide on how many points to award per challenge?** &mdash; We decide based on image difficulty, which in turn is defined by what is shown in the image. We award 5, 10 or 20 points per challenge &ndash; you can (try and) bribe us with chocolate 😉.
 
 ## 2. Terms of Service
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the website (the "Service") https://twitter.com/swissguesser and https://swissguesser.github.io/leaderboard/ operated by @swissguesser ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the website (the "Service") <a href="https://twitter.com/swissguesser">https://twitter.com/swissguesser</a>
+ and <a href="https://swissguesser.github.io/leaderboard/">https://swissguesser.github.io/leaderboard/</a>
+ operated by  <a href="https://twitter.com/swissguesser">@swissguesser</a> ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
@@ -41,7 +46,7 @@ All provisions of the Terms which by their nature should survive termination sha
 
 Our Service may contain links to third­-party web sites or services that are not owned or controlled by @swissguesser
 
-@swissguesser has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that @swissguesser shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+@swissguesser has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that <a href="https://twitter.com/swissguesser">@swissguesser</a> shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
 
@@ -99,7 +104,8 @@ Based on Article 13 of the Swiss Federal Constitution and the data protection pr
 
 ### 4.2 Privacy policy for Twitter
 
-This website uses functions of Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. When you call up our pages with Twitter plug-ins, a connection is established between your browser and the servers of Twitter. In the process, data is already transferred to Twitter. If you have a Twitter account, this data can be linked to it. If you do not wish this data to be associated with your Twitter account, please log out of Twitter before visiting our site. Interactions, in particular the clicking of a "Re-Tweet" button, are also passed on to Twitter. You can find out more at https://twitter.com/privacy.
+This website uses functions of Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. When you call up our pages with Twitter plug-ins, a connection is established between your browser and the servers of Twitter. In the process, data is already transferred to Twitter. If you have a Twitter account, this data can be linked to it. If you do not wish this data to be associated with your Twitter account, please log out of Twitter before visiting our site. Interactions, in particular the clicking of a "Re-Tweet" button, are also passed on to Twitter. You can find out more at <a href="ttps://twitter.com/privacy">ttps://twitter.com/privacy</a>
+.
 
 ### 4.3 Privacy policy for GithubPages
 
@@ -120,7 +126,8 @@ United States
 
 This is the recipient of your personal data. This corresponds to our legitimate interest within the meaning of Art. 6 (1) sentence 1 lit. f DSGVO in not having to maintain a server on our premises. The server is located in the USA.
 
-You can find more information on objection and removal options vis-à-vis GitHub at: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages.
+You can find more information on objection and removal options vis-à-vis GitHub at: <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages">https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages</a>
+.
 
 You have the right to object to the processing. Whether the objection is successful is to be determined within the framework of a balancing of interests.
 
@@ -128,7 +135,8 @@ The data will be deleted as soon as the purpose of the processing ceases to appl
 
 The processing of the data provided under this section is not required by law or contract. The functionality of the website is not guaranteed without the processing.
 
-GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information, please visit: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors
+GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information, please visit:<a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors">https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors</a>
+
 
 ### 4.4 Changes
 
@@ -136,14 +144,18 @@ We may amend this privacy policy at any time without prior notice. The current v
 
 ### 4.5 Questions for the Data Protection Officer
 
-If you have any questions about data protection, please write to us by e-mail or contact the persons responsible for data protection in our organisation directly.
+If you have any questions about data protection, please write to us by twitter Direct Messages or contact the persons responsible for data protection in our organisation via GitHub directly.
 
 The data protection officers within the meaning of the data protection laws, in particular the EU General Data Protection Regulation (GDPR), are:
 
-- Ralph Straumann ([Twitter](https://twitter.com/rastrau), [GitHub](https://github.com/rastrau)) and 
-- David Oesch ([Twitter](https://twitter.com/davidoesch), [GitHub](https://github.com/davidoesch))
+- Ralph Straumann (<a href="https://twitter.com/rastrau">Twitter</a>, <a href="https://github.com/rastrau">GitHub</a>
+) and 
+- David Oesch (<a href="https://twitter.com/davidoesch">Twitter</a>, <a href="https://github.com/davidoesch">GitHub</a>
+)
 
-Website: https://swissguesser.github.io/leaderboard/
+Website: <a href="https://swissguesser.github.io/leaderboard/">https://swissguesser.github.io/leaderboard/</a>
+
 
 Bern, 03.06.2021
-Source: https://www.swissanwalt.ch
+Source:<a href="https://www.swissanwalt.ch">ttps://www.swissanwalt.ch</a>
+
