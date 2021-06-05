@@ -21,7 +21,7 @@
 - **How will you know if your #swissguesser answer was correct?** &mdash; If you were the first to submit a correct answer, <a href="https://twitter.com/swissguesser/">@swissguesser</a> will mention and congratulate you. If you were correct but not the fastest, we will like your answer tweet. If there is no interaction, you were off &ndash; better luck next time!
 
 - **You want to know your current score?** &mdash; Simply go to the leaderboard at <a href="https://swissguesser.github.io/leaderboard.">https://swissguesser.github.io/leaderboard.</a>
-. Or ask @swissguesser by tweeting «score» (or more politely, for example: «What is my score, please?» 😉) at us. We'll do the calculations and send you your current rank and stats.
+. Or ask <a href="https://twitter.com/swissguesser/">@swissguesser</a> by tweeting «score» (or more politely, for example: «What is my score, please?» 😉) at us. We'll do the calculations and send you your current rank and stats.
 
 - **How does #swissguesser decide on how many points to award per challenge?** &mdash; We decide based on image difficulty, which in turn is defined by what is shown in the image. We award 5, 10 or 20 points per challenge &ndash; you can (try and) bribe us with chocolate 😉.
 
@@ -44,9 +44,9 @@ All provisions of the Terms which by their nature should survive termination sha
 
 ### 2.2 Third party services
 
-Our Service may contain links to third­-party web sites or services that are not owned or controlled by @swissguesser
+Our Service may contain links to third­-party web sites or services that are not owned or controlled by <a href="https://twitter.com/swissguesser/">@swissguesser</a>
 
-@swissguesser has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that <a href="https://twitter.com/swissguesser">@swissguesser</a> shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+<a href="https://twitter.com/swissguesser/">@swissguesser</a> has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that <a href="https://twitter.com/swissguesser">@swissguesser</a> shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
 
@@ -83,7 +83,7 @@ Please note that your participation might be temporarily suspended in case these
 We reserve the right to remove any map, avatar or other content that can be considered offensive and include (but not limited to) offensive symbols, statements or remarks.
 
 ### 2.8 Contact Us
-If you have any questions about these Terms, please contact us at @swissguesser on Twitter.
+If you have any questions about these Terms, please contact us at <a href="https://twitter.com/swissguesser/">@swissguesser</a> on Twitter.
 
 
 ## 3. Disclaimer
@@ -144,7 +144,7 @@ We may amend this privacy policy at any time without prior notice. The current v
 
 ### 4.5 Questions for the Data Protection Officer
 
-If you have any questions about data protection, please write to us by twitter Direct Messages or contact the persons responsible for data protection in our organisation via GitHub directly.
+If you have any questions about data protection, please write to us by Twitter Direct Messages <a href="https://twitter.com/swissguesser/">@swissguesser</a> or contact the persons responsible for data protection in our organisation via GitHub directly.
 
 The data protection officers within the meaning of the data protection laws, in particular the EU General Data Protection Regulation (GDPR), are:
 
