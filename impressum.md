@@ -157,5 +157,6 @@ Website: <a href="https://swissguesser.github.io/leaderboard/">https://swissgues
 
 
 Bern, 03.06.2021
-Source:<a href="https://www.swissanwalt.ch">ttps://www.swissanwalt.ch</a>
+
+Source: <a href="https://www.swissanwalt.ch">https://www.swissanwalt.ch</a>
 
