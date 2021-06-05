@@ -104,7 +104,7 @@ Based on Article 13 of the Swiss Federal Constitution and the data protection pr
 
 ### 4.2 Privacy policy for Twitter
 
-This website uses functions of Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. When you call up our pages with Twitter plug-ins, a connection is established between your browser and the servers of Twitter. In the process, data is already transferred to Twitter. If you have a Twitter account, this data can be linked to it. If you do not wish this data to be associated with your Twitter account, please log out of Twitter before visiting our site. Interactions, in particular the clicking of a "Re-Tweet" button, are also passed on to Twitter. You can find out more at <a href="ttps://twitter.com/privacy">ttps://twitter.com/privacy</a>
+This website uses functions of Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. When you call up our pages with Twitter plug-ins, a connection is established between your browser and the servers of Twitter. In the process, data is already transferred to Twitter. If you have a Twitter account, this data can be linked to it. If you do not wish this data to be associated with your Twitter account, please log out of Twitter before visiting our site. Interactions, in particular the clicking of a "Re-Tweet" button, are also passed on to Twitter. You can find out more at <a href="ttps://twitter.com/privacy">https://twitter.com/privacy</a>
 .
 
 ### 4.3 Privacy policy for GithubPages
