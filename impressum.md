@@ -154,7 +154,9 @@ The data protection officers within the meaning of the data protection laws, in 
 )
 
 ABOUT : <a href="https://swissguesser.github.io/swissguesser/about.html/">https://swissguesser.github.io/swissguesser/about.html/</a>
+
 LEADERBOARD : <a href="https://swissguesser.github.io/swissguesser/leaderboard.html/">https://swissguesser.github.io/swissguesser/leaderboard.html/</a>
+
 TWITTER : <a href="https://twitter.com/swissguesser/">https://twitter.com/swissguesser/</a>
 
 Bern, 03.06.2021
