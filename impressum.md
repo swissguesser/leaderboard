@@ -16,7 +16,7 @@
 
 - **What about privacy?** &mdash; If you score, we display your Twitter handle, your all-time and 30-day #swissguesser score and rank on our public leaderboard at <a href="https://swissguesser.github.io/leaderboard">https://swissguesser.github.io/leaderboard</a>
 . If you don't want this, please let us know in a Direct Message to <a href="https://twitter.com/swissguesser/">@swissguesser</a>
- indicating your Twitter handle. See <a href="#terms-of-service">Terms of Service</a> and <a href="#datenschutzerklärung">Privacy Statement</a> below.
+ indicating your Twitter handle. See <a href="#2-terms-of-service">Terms of Service</a> and <a href="#4-privacy-policy">Privacy Policy</a> below.
 
 - **How will you know if your #swissguesser answer was correct?** &mdash; If you were the first to submit a correct answer, <a href="https://twitter.com/swissguesser/">@swissguesser</a> will mention and congratulate you. If you were correct but not the fastest, we will like your answer tweet. If there is no interaction, you were off &ndash; better luck next time!
 
@@ -153,8 +153,9 @@ The data protection officers within the meaning of the data protection laws, in 
 - David Oesch (<a href="https://twitter.com/davidoesch">Twitter</a>, <a href="https://github.com/davidoesch">GitHub</a>
 )
 
-Website: <a href="https://swissguesser.github.io/leaderboard/">https://swissguesser.github.io/leaderboard/</a>
-
+ABOUT : <a href="https://swissguesser.github.io/swissguesser/about.html/">https://swissguesser.github.io/swissguesser/about.html/</a>
+LEADERBOARD : <a href="https://swissguesser.github.io/swissguesser/leaderboard.html/">https://swissguesser.github.io/swissguesser/leaderboard.html/</a>
+TWITTER : <a href="https://twitter.com/swissguesser/">https://twitter.com/swissguesser/</a>
 
 Bern, 03.06.2021
 
