@@ -12,7 +12,7 @@
 
 ## 1. General idea
 
-- **How does #swissguesser work?** &mdash; We tweet an aerial photo of Switzerland. Reply as soon as possible with your guess of the municipality or place shown in the image. The fastest correct answer scores 5, 10 or 20 points, slower ones score a fifth of that.
+- **How does #swissguesser work?** &mdash; We tweet every morning and afternoon an aerial photo of Switzerland. Reply as soon as possible with your guess of the municipality or place shown in the image. The fastest correct answer scores 5, 10 or 20 points, slower ones score a fifth of that.
 
 - **What about privacy?** &mdash; If you score, we display your Twitter handle, your all-time and 30-day #swissguesser score and rank on our public leaderboard at <a href="https://swissguesser.github.io/leaderboard">https://swissguesser.github.io/leaderboard</a>
 .  Your guesses and participations are stored internally for operational use- no public access. If you don't want this, please let us know in a Direct Message to <a href="https://twitter.com/swissguesser/">@swissguesser</a>
