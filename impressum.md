@@ -15,7 +15,7 @@
 - **How does #swissguesser work?** &mdash; We tweet every morning and afternoon an aerial photo of Switzerland. Reply as soon as possible with your guess of the municipality or place shown in the image. The fastest correct answer scores 5, 10 or 20 points, slower ones score a fifth of that.
 
 - **What about privacy?** &mdash; If you score, we display your Twitter handle, your all-time and 30-day #swissguesser score and rank on our public leaderboard at <a href="https://swissguesser.github.io/leaderboard">https://swissguesser.github.io/leaderboard</a>
-.  Your guesses and participations are stored internally for operational use- no public access. If you don't want this, please let us know in a Direct Message to <a href="https://twitter.com/swissguesser/">@swissguesser</a>
+. Your guesses and participations are stored internally and displayed when you ask via tweeting «score». If you don't want this, please let us know in a Direct Message to <a href="https://twitter.com/swissguesser/">@swissguesser</a>
  indicating your Twitter handle. See <a href="#2-terms-of-service">Terms of Service</a> and <a href="#4-privacy-policy">Privacy Policy</a> below.
 
 - **How will you know if your #swissguesser answer was correct?** &mdash; If you were the first to submit a correct answer, <a href="https://twitter.com/swissguesser/">@swissguesser</a> will mention and congratulate you. If you were correct but not the fastest, we will like your answer tweet. If there is no interaction, you were off &ndash; better luck next time!
