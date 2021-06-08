@@ -152,7 +152,7 @@ The data protection officers within the meaning of the data protection laws, in 
 - David Oesch (<a href="https://twitter.com/davidoesch">Twitter</a>, <a href="https://github.com/davidoesch">GitHub</a>
 )
 
-ABOUT : <a href="https://swissguesser.github.io/swissguesser/about.html/">https://swissguesser.github.io/swissguesser/about.html</a>
+ABOUT : <a href="https://swissguesser.github.io/swissguesser/about.html">https://swissguesser.github.io/swissguesser/about.html</a>
 
 LEADERBOARD : <a href="https://swissguesser.github.io/swissguesser/leaderboard.html/">https://swissguesser.github.io/swissguesser/leaderboard.html</a>
 
