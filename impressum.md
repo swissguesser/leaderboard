@@ -12,7 +12,7 @@
 
 ## 1. General idea
 
-- **How does #swissguesser work?** &mdash; We tweet every morning and afternoon an aerial photo, surface or relief map of Switzerland. Reply as soon as possible with your guess of the municipality or place shown in the image. The fastest correct answer scores 5 - 30 points, slower ones score a fifth of that.
+- **How does #swissguesser work?** &mdash; We tweet every morning and afternoon an aerial photo, surface or relief map of Switzerland. Reply as soon as possible with your guess of the municipality or place shown in the image. The fastest correct answer scores a set number of points as announced in the tweet, slower ones score a fifth of that.
 
 - **What about privacy?** &mdash; If you score, we display your Twitter handle, your all-time and 30-day #swissguesser score and rank on our public leaderboard at <a href="https://swissguesser.github.io/leaderboard">https://swissguesser.github.io/leaderboard</a>. Your participations and guesses are stored internally and displayed if you ask for statistics by tweeting «score» at <a href="https://twitter.com/swissguesser/">@swissguesser</a>. If you don't want this, please let us know in a Direct Message to <a href="https://twitter.com/swissguesser/">@swissguesser</a>
  indicating your Twitter handle. See <a href="#2-terms-of-service">Terms of Service</a> and <a href="#4-privacy-policy">Privacy Policy</a> below.
@@ -22,7 +22,7 @@
 - **You want to know your current score?** &mdash; Simply go to the leaderboard at <a href="https://swissguesser.github.io/leaderboard.">https://swissguesser.github.io/leaderboard.</a>
 . Or ask <a href="https://twitter.com/swissguesser/">@swissguesser</a> by tweeting «score» (or more politely, for example: «What is my score, please?» 😉) at us. We'll do the calculations and send you your current rank and stats.
 
-- **How does #swissguesser decide on how many points to award per challenge?** &mdash; We decide based on image difficulty, which in turn is defined by what is shown in the image. We award 5 - 30 points per challenge &ndash; you can (try and) bribe us with chocolate 😉.
+- **How does #swissguesser decide on how many points to award per challenge?** &mdash; We decide based on image difficulty, which in turn is defined by what is shown in the image. Per challenge, we award a set number of points as announced in the tweet &ndash; you can (try and) bribe us with chocolate 😉.
 
 ## 2. Terms of Service
 
